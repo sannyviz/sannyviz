@@ -9,13 +9,13 @@ Meu nome é Sanny Viz, tenho 21 anos e sou oriunda do Rio de Janeiro. Atualmente
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sannyviz/sannyviz/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/sannyviz/sannyviz/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/sannyviz/sannyviz/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/9_r7R0H8sA4AAAAd/anime-frieren.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/lY6jlpuqMYAAAAAC/hmm.gif"  />
 
 ###
 
@@ -32,15 +32,18 @@ Meu nome é Sanny Viz, tenho 21 anos e sou oriunda do Rio de Janeiro. Atualmente
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@sannystudiesdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
